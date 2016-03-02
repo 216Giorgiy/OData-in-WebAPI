@@ -1,0 +1,349 @@
+2016-03-02 13:59:03.5254|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:00:39.3984|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:01:55.6254|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductName eq 'computer'
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:02:08.8164|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductName eq 'computer'
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:05:43.6654|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductName eq 'computer'
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:09:54.2224|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductName eq 'computer'
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:10:18.9394|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductName eq 'computer'
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:10:24.6944|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductName eq 'computer'
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:13:36.7534|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductId lt 10
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:18:38.9984|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=substringof('IPhone',ProductName)
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:32:06.1144|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductId lt 3
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:33:04.5866|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=ProductId ge 3 and ProductId le 5
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 14:34:10.1530|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$filter=substringof('IPhone',ProductName)
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:00:34.9794|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductName desc
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:14:03.1584|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductName asc
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:16:09.3964|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductId desc
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:16:49.3954|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductId asc
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:28:53.3964|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductId asc&$top=5
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:29:32.2524|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductId asc&$top=5
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:54:58.8664|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=5$skip=3
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:55:17.2764|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=5&$skip=3
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:57:00.6744|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=5&$skip=3
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:58:51.8484|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductName asc &$skip=6
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 15:59:08.6664|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductName asc &$skip=6
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:01:48.9294|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$expand=Product
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:01:54.0694|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$expand=Products
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:02:01.5964|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$expand=ProductName
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:04:05.5524|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$inlinecount=allpages
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:35:20.4824|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:37:00.9424|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:44:41.1094|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:44:56.4324|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:47:32.9484|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 16:47:56.9494|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 17:15:49.3574|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+
+2016-03-02 17:16:39.6104|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The action 'Get' on controller 'Product' with return type 'System.Web.Http.OData.PageResult`1[[DataModel.Product, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' cannot support querying. Ensure the type of the returned content is IEnumerable, IQueryable, or a generic form of either interface.
+
+
+2016-03-02 17:17:18.7624|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+
+2016-03-02 17:17:46.3604|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The action 'Get' on controller 'Product' with return type 'System.Web.Http.OData.PageResult`1[[DataModel.Product, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' cannot support querying. Ensure the type of the returned content is IEnumerable, IQueryable, or a generic form of either interface.
+
+
+2016-03-02 17:19:05.8865|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+
+2016-03-02 17:24:09.5021|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The action 'Get' on controller 'Product' with return type 'System.Web.Http.OData.PageResult`1[[DataModel.Product, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' cannot support querying. Ensure the type of the returned content is IEnumerable, IQueryable, or a generic form of either interface.
+
+
+2016-03-02 17:51:15.1714|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: Cannot create an EDM model as the action 'Get' on controller 'Product' has a return type 'WebApi.Helpers.ODataMetadata`1[[BusinessEntities.ProductEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' that does not implement IEnumerable<T>.
+
+
+2016-03-02 18:03:58.1114|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=10
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 18:05:46.8514|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=10
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-02 18:12:32.5864|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$orderby=ProductName desc
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

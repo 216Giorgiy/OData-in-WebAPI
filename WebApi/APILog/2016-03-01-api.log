@@ -1,0 +1,118 @@
+2016-03-01 17:27:34.4877|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:31:19.1807|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:35:44.0917|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:37:10.4627|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:37:55.1477|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:37:57.4797|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The action 'Get' on controller 'Product' with return type 'System.Collections.Generic.List`1[[BusinessEntities.ProductEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' cannot support querying. Ensure the type of the returned content is IEnumerable, IQueryable, or a generic form of either interface.
+
+
+2016-03-01 17:38:04.2827|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:39:06.2507|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The action 'Get' on controller 'Product' with return type 'System.Collections.Generic.List`1[[BusinessEntities.ProductEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' cannot support querying. Ensure the type of the returned content is IEnumerable, IQueryable, or a generic form of either interface.
+
+
+2016-03-01 17:39:44.8437|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:41:14.2687|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=3
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 17:41:36.0317|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=3
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 18:01:56.5677|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 18:02:31.8487|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 18:05:08.0977|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=2
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-03-01 18:08:34.2640|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?$top=2
+Token: f2b39f7e-8b69-45ee-b111-6380c6cf946b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
